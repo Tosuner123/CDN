@@ -1,4 +1,4 @@
-layout: null
+
 // NAVBAR İÇİN
 // Kullanacağım dom yapılarının çağırılması
 
